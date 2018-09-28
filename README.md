@@ -13,7 +13,7 @@ NET Standard library reference implementation built via Azure Pipelines.
 
 ## Motivation
 
-To serve as a reference for building a NET Standard library with a [CI/CD](https://en.wikipedia.org/wiki/CI/CD) pipeline provided by [Azure Pipleines](https://azure.microsoft.com/en-au/services/devops/pipelines/).
+To serve as a reference for building a NET Standard library with a [CI/CD](https://en.wikipedia.org/wiki/CI/CD) pipeline provided by [Azure Pipelines](https://azure.microsoft.com/en-au/services/devops/pipelines/).
 
 ### Features
 
